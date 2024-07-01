@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205008ac9bf9d5e41acdbddfa502f0cd, type: 3}
+  m_Name: Hoe
+  m_EditorClassIdentifier: 
+  ItemName: "\u041C\u043E\u0442\u044B\u0433\u0430"
+  ItemIcon: {fileID: 21300000, guid: 5f230d3e53ae0944cbfba8d77193569f, type: 3}
+  ItemsInStack: 1
+  ItemType: 4
+  EquippedName: Hoe
+  ItemObject: {fileID: 8102852221367688993, guid: 8415bd48b5c33924d9feb4613773ff80, type: 3}
+  SellCost: 50
+  BuyCost: 100
+  ItemModifier: 15
